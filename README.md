@@ -1,3 +1,3 @@
 # Learning_.NETCore_Project
 
-Welcome to GITRepo
+Learning project on .NETCore
